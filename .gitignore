@@ -1,5 +1,6 @@
 # Dependências do Node.js
 node_modules/
+mochawesome-reports/
 
 # Logs de execução e erros
 logs

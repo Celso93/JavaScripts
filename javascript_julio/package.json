@@ -1,0 +1,20 @@
+{
+  "name": "calcula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha",
+    "testReport": "npx mocha --reporter mochawesome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "mocha": "^11.3.0"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.4"
+  }
+}
