@@ -12,7 +12,8 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "mocha": "^11.3.0"
+    "mocha": "^11.3.0",
+    "selenium-webdriver": "^4.44.0"
   },
   "devDependencies": {
     "mochawesome": "^7.1.4"
